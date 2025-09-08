@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: system-ui, sans-serif;
+/* Small utility for image card hover */
+.card-scale {
+  transition: transform .25s ease;
+}
+.card-scale:hover {
+  transform: translateY(-6px) scale(1.02);
 }
