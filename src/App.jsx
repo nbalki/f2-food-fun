@@ -109,7 +109,7 @@ export default function App() {
                 <div className="flex items-start gap-3">
                   <span className="text-2xl">📞</span>
                   <div>
-                    <div className="font-semibold">+91 9655080809</div>
+                    <div className="font-semibold">+91 9442069355</div>
                     <div className="text-sm text-white/90">Call us for quick reservations</div>
                   </div>
                 </div>
@@ -117,7 +117,7 @@ export default function App() {
                 <div className="flex items-start gap-3">
                   <span className="text-2xl">✉️</span>
                   <div>
-                    <div className="font-semibold">fsquare.foodfun@gmail.com</div>
+                    <div className="font-semibold">f2foodsxx@gmail.com</div>
                     <div className="text-sm text-white/90">Questions? Send an email</div>
                   </div>
                 </div>
